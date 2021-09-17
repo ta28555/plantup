@@ -35,7 +35,7 @@
 画面設計図 <https://docs.google.com/presentation/d/1xPsh_aCebtECXBTnRGNRintEh6M5zHyQqOTegH_6xJ8/edit#slide=id.gb84ed69275_0_33>  
 画面遷移図 <https://app.diagrams.net/#G1If3ZBgouVH72n9KG_E2Cb67Go1RMFsGr>  
 ER図 <https://app.diagrams.net/#G1RUOxWIHhpoPM5YIjSdbW45Bs7MAOsNJi>  
-テーブル定義書
+テーブル定義書 <https://docs.google.com/spreadsheets/d/1QpnX3sEWUv23yHMAynBwgGLDbhA5SzRvKjSpvQRyPPw/edit#gid=839827520>
 
 ## チャレンジ要素一覧
 <https://docs.google.com/spreadsheets/d/1lipmNm4gdwDqpK90LZDNS_bdnrXsnrIiCFrYsrIR_Vk/edit#gid=0>
